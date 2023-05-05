@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3862039605cd54c7e9285b0f50cbd24b, type: 3}
+  m_Name: Colt
+  m_EditorClassIdentifier: 
+  Name: "\u041A\u043E\u043B\u044C\u0442 "
+  EngName: 'Colt '
+  Description: "\u0411\u0430\u0437\u043E\u0432\u044B\u0439 \u043F\u0438\u0441\u0442\u043E\u043B\u0435\u0442"
+  EngDescription: Base pistol
+  sprite: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+  damage: 10
+  bulletSpeed: 20
+  fireRate: 0.2
+  reloadTime: 0.5
+  firstAmmo: 8
+  secondAmmo: 100
+  PlayerPrefsName: Colt
